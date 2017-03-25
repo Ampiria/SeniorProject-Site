@@ -1,0 +1,45 @@
+.navbar{
+    margin-right: 0px;
+}
+
+#logo{
+    width: 45;    
+}
+
+.navbar-brand{
+    padding: 2;
+}
+
+#container{
+    font-family: Georgia, serif;
+}
+
+.article-title{
+    margin-left: 20px;
+    color: #ff761a;
+}
+
+.article-title h2{
+    text-align: center;
+    margin-left: 7%;
+    margin-bottom: 3%;
+    font-size: 60px;
+    max-width: 40%;
+}
+#adtypes{
+    max-width: 70%;
+    float: none;
+    align-content: center;
+    margin-left: 12%;
+}
+.example{
+}
+#content{
+    
+}
+.description{
+    padding-top: 3%;
+}
+.adlinks{
+    float: right;
+}
